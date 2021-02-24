@@ -35,8 +35,3 @@
 
 ## Training and Validation Loss (시간 경과에 따른 정확성과 손실 도표)
 <img src="https://user-images.githubusercontent.com/79067558/108948326-a1226780-76a5-11eb-95fc-9dc4b8e082ea.png" width=70% height="70%"><br/>
-
-## 참고한 부분
-|Title|Explanation|From|
-|:-------:|:----------:|:---------:|
-|BERT Project|About Text Classification by 'BERT'|https://www.tensorflow.org/tutorials/text/classify_text_with_bert (Tensorflow Official)|

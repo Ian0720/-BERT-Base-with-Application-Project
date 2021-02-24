@@ -21,13 +21,14 @@
 |WikiExtractor.py|Author: Giuseppe Attardi, extracts and cleans text from a Wikipedia database dump|https://github.com/attardi/wikiextractor|<br/>
 <br/>
 
-## 추가된 파일 설명
+## 추가된 파일 설명(BERTText.py)
 
 ## BERT를 응용하여 텍스트를 분류하는 프로젝트를 수행해 보았습니다.
 - 각 파일의 실행 경과 및 코드가 각 해당 라인에 작성된 이유 또한 작성해 놓았으니 참고하시면 됩니다.
 - 예제의 용량은 커서 업로드 할 수 없었음을 양해 부탁드립니다.
 - 저 같은 경우는, 인터넷 영화 데이터베이스에서 가져온 50,000개의 영화 리뷰 텍스트가 포함된 대형 영화 리뷰 데이터 세트를 참고하였으며
 - 이를 통하여 영화리뷰를 긍정적 또는 부정적으로 분류하는 감정 분석 모델을 구축해보았습니다.
+- 아 참, 마지막에 올린 부분은 다국어 지원을 위한 파일입니다, 또한 ipynb는 원본이니 참고하셔서 둘다 구동해보시는 것도 좋을 것 같아서 올렸습니다!
 
 ## BERT MODEL ARCHITECTURE
 <img src="https://user-images.githubusercontent.com/79067558/108948232-70dac900-76a5-11eb-80c9-a1b8b55bf200.png" width="70%" height="70%"><br/>
